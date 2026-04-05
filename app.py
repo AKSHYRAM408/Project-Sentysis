@@ -95,7 +95,7 @@ def analyze_comments_with_grok(comments):
                                      "Tasks:\n"
                                      "1. Determine the positive reach (engagement sentiment).\n"
                                      "2. Suggest improvements for better audience interaction.\n"
-                                     "3. Provide actionable recommendations to boost engagement.\n\n"
+                                     "3. Provide actionable recommendations to boost the engagement.\n\n"
                                      "Format your response as:\n"
                                      "- Positive Reach: (percentage or description)\n"
                                      "- Negative Reach: (percentage or description)\n"
