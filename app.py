@@ -12,6 +12,8 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 
+
+
 load_dotenv()
 GROK_API_KEY = os.getenv("GROQ_API_KEY")
 
