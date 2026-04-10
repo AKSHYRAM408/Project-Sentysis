@@ -18,6 +18,8 @@ Suggest actions to manage spam users
 
 Installation
 
+
+
 Prerequisites
 
 Ensure you have the following installed:
