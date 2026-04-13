@@ -14,8 +14,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 
+
 load_dotenv()
-GROK_API_KEY = os.getenv("GROQ_API_KEY")
+GROK_API_KEY = os.getenv("Mistral_API_KEY")
 
 if not GROK_API_KEY:
     st.error("Error: GROK_API_KEY is not set. Check your .env file.")
