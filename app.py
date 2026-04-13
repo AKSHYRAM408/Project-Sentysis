@@ -77,6 +77,7 @@ def scrape_youtube_comments(video_url):
             continue  # Skip if data is not found
 
     driver.quit()
+    
     return comments_data
 
 def detect_spam(comments_with_users):
